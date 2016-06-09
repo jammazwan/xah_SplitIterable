@@ -11,6 +11,7 @@
     
     
     
+    <bean id="xahBean" class="jammazwan.xah.XahBean"/>
     <bean id="xahRoutes" class="jammazwan.xah.XahRoutes"/>
 
     <camelContext id="xah" xmlns="http://camel.apache.org/schema/spring">
